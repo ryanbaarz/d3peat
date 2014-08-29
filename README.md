@@ -3,10 +3,11 @@ d3peat
 
 D3 functions to make life easier
 
-I felt weird inside. Why do I have to select elements before I append them?
+I felt weird inside when I had to map datapoints to new elements. Why do I have to select elements before I append them?
 
-Using D3 alone, to map new elements to each data point and then add the elements to the SVG I had to selectAll the elements before they were appended. 
-I'm sure that if I had a big mbostock brain it wouldn't hurt so much but this tiny plugin suits my needs many times. 
+To map new elements to each data point and then add the elements to the SVG I had to  use selectAll on the elements before they were appended.
+
+I'm sure that if I had a big mbostock brain it wouldn't hurt so much, but this tiny plugin helps my headaches suside a litte. 
 
 Okay, to add it just copy paste it or include the js file after D3 is included on your index.html page
 
