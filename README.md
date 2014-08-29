@@ -10,7 +10,7 @@ I'm sure that if I had a big mbostock brain it wouldn't hurt so much but this ti
 
 Okay, to add it just copy paste it or include the js file after D3 is included on your index.html page
 
-
+```javascript
 This adds the data and appends an element for each each of the data points
     Example 1:
         This will add a 'rect' element for each datapoint and return
@@ -40,4 +40,4 @@ This adds the data and appends an element for each each of the data points
                 .attr('x', 10)
                 .attr('y', 10)
                 .style('fill', '#FF0000');
-        
+```        
